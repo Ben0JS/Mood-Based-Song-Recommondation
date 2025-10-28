@@ -49,8 +49,8 @@ const NavBar = () => {
         >
           <span className="navbar-toggler-icon" />
         </button>
-        <div className="collapse navbar-collapse" id="navbarNav">
-          <ul className="navbar-nav custom-mobile-list mt-3">
+        <div className="collapse navbar-collapse text-align-center" id="navbarNav">
+          <ul className="navbar-nav ms-auto text-center p-4  custom-mobile-list mt-3">
             <li className="nav-item ">
               <Link
                 to="/"
