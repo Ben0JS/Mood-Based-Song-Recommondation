@@ -1,0 +1,41 @@
+.bgclr {
+    background-color: #1DB954;
+}
+button.btnclr {
+    border: solid 2px #1DB954;
+    color: #1DB954;
+
+}
+.bgform {
+    background-color: #ff0000;
+}
+.bgmain {
+    background-color: #000000;
+}
+
+@media (max-width: 991.98px) {
+    .custom-mobile-list .nav-item {
+        border-top: 2px solid black !important;
+        margin-top: 10px;
+    } 
+}
+.bgabout{
+    background-color: #d7d7d7;
+}
+ button.songbtn {
+    background-color: #7913ff;
+    color: white;
+    border: none;
+}
+    button.songbtn:hover {
+        background-color: #5e0acc;
+        color: white;
+    }
+
+
+.widthhome {
+    height: 200px;
+}
+.mg {
+    height: 1250px;
+}
