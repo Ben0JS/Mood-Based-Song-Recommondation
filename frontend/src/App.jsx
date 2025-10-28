@@ -39,7 +39,7 @@ const App = () => {
   return (
     <Router>
       <div className=" bg-dark text-light mg">
-        <Navbar />
+        <NavBar />
         <div className="">
           <Routes>
             <Route path="/" element={<MoodsPage />} />
