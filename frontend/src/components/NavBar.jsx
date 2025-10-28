@@ -5,7 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css"; // CSS
 import "bootstrap/dist/js/bootstrap.bundle.min.js"; // JS (if needed globally)
 import '../App.css'; 
 
-const Navbar = () => { 
+const NavBar = () => { 
 
     useEffect(() => {
     const navLinks = document.querySelectorAll(".nav-link");
@@ -82,4 +82,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default NavBar;
