@@ -4,7 +4,7 @@ import MoodForm from "./components/MoodForm";
 import MoodList from "./components/MoodList";
 import SongList from "./components/SongList";
 import Recommendations from "./components/Recommendations";
-import Navbar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import About from "./components/About";
 import Footer from "./components/Footer";
 
